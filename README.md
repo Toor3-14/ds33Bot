@@ -1,3 +1,3 @@
 ## DS33 BOT -
 #### Discord Bot for Joy )
-![discord logo](https://cdn.freerunce.ru/resize_cache/2119188/e884c9e59b953d070cf160ad82fd1b03/iblock/f7e/f7e1be03db56049517ea43f5a96c6cff/2720204_1579384279.jpg)
+![logo](https://sun9-85.userapi.com/impg/Xpe1AynVUTd4gmQKocYy_AWOlzYYCgQcVOfzpQ/zpLMvgDTMXM.jpg?size=1280x960&quality=96&sign=5a44949db9180daa61e8d0af347a140d&c_uniq_tag=EbkS75cXVoYqlqS4eTyTUlfhHdBX-o19oEMqkK5llvU&type=album)
