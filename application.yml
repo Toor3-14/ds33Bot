@@ -1,0 +1,6 @@
+server:
+  port: ${PORT}
+
+app:
+  username: 2
+  botToken: 1

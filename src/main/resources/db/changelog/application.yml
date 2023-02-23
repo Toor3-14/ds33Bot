@@ -1,0 +1,14 @@
+#bot:
+#  username: DetskiySad33Bot
+#  botToken: 5274817954:AAGfp10JwfoJUEn9_MmSe5e3V-hNalmDuGE
+app:
+  username: DetskiySad33Bot
+  botToken: 5274817954:AAGfp10JwfoJUEn9_MmSe5e3V-hNalmDuGE
+#server:
+#  port: 5000
+#
+#
+#telegrambot:
+#  userName: https://t.me/DetskiySad33_bot
+#  botToken: 5274817954:AAGfp10JwfoJUEn9_MmSe5e3V-hNalmDuGE
+#  webHookPath:
